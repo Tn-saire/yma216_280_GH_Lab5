@@ -43,3 +43,12 @@ def convert_base(num, n):
         return int(new_num_string)
     except:
         return new_num_string
+    
+    
+def factorial(number):
+
+
+
+
+
+
