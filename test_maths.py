@@ -29,8 +29,8 @@ class MathsTest(unittest.TestCase):
         
         
     def test_factorial(self):
-        result = maths.factorial(3)
-        self.assertEqual(6,result, "factorial function is wrong")
+        result = maths.factorial(4)
+        self.assertEqual(24,result, "factorial function is wrong")
          
          
 # This allows running the unit tests from the command line (python test_maths.py)
