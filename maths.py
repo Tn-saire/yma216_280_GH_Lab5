@@ -47,6 +47,7 @@ def convert_base(num, n):
     
 def factorial(number):
     out = 1
+    
     for i in range (1,number+1):
         out = out*i
     return out
